@@ -17,7 +17,7 @@ create hits.txt / open hits.txt
 /////////////////////////////////////
 
 Whats ERROR-STUDIO??
-Its a Projekt 
+Its a Projekt.
 discord: https://discord.gg/KSQne53wq8
 
 ////////////////////////////////////////////
